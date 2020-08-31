@@ -1,0 +1,269 @@
+---
+desabodega:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.18.1.73:1521:desabodega
+---
+desalima:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.192:1521:or0101
+---
+desatacna:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.130.79:1521:OR0701
+---
+desachiclayo:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.18.1.73:1521:desachicl
+             
+#================================================================================================
+bodega:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.18.1.75:1521:dbsp1
+---        
+sur:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.40:1531:sur_4
+---        
+este:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.30:1531:este_3
+---        
+norte:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.30:1531:norte_3
+---
+abancay:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.100.37:1532:or06021
+--- 
+andahuaylas:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.100.38:1537:or06072
+---
+arequipa:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.120.78:1531:or0301
+---
+ayacucho:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.145.21:1521:or1401
+---
+bagua:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.20.25:1524:or1104
+---
+barranca:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.30:1532:or0106_3
+---
+cajamarca:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.20.25:1522:or1102
+---
+callao:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.30:1532:or0102_3
+---
+camana:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.120.76:1532:or0302
+---
+caniete:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.30:1532:or0105_3
+---
+casma:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.72.27:1532:or04022
+---
+castillaaplao:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.120.76:1533:or0303
+---
+chachapoyas:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.20.25:1525:or1105
+---
+chepen:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.53.25:1521:or08021
+---
+chiclayo:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.20.25:1521:or1101
+---
+chimbote:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.72.25:1533:or04031
+---
+chincha:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.110.16:1532:or10022
+---
+chota:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.20.25:1526:or1106
+---
+cusco:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.100.37:1531:or06011
+---
+espinar:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.100.38:1536:or06062
+---
+huacho:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.30:1532:or0104_3
+---
+huamachuco:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.53.25:1521:or08031
+---
+huancavelica:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.80.144:1539:or02092
+---
+huancayo:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.80.143:1531:or02011
+---
+huanta:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.146.22:1521:or1402
+---
+huanuco:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.80.143:1532:or02021
+---
+huaral:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.30:1532:or0103_3
+---
+huaraz:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.72.27:1531:or04012
+---
+ica:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.110.15:1531:or10011
+---
+ilo:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.130.19:1532/or0702
+---
+islaymollendo:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.120.76:1534:or0304
+---
+jaen:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.20.25:1523:or1103
+---
+juanjui:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.30.23:1533:or1203
+---
+juliaca:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.130.20:1533:or07032
+---
+lamerced:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.80.144:1536:or02062
+---
+lima:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.190.30:1530:or0101_3
+---
+madrededios:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.100.37:1533:or06031
+---
+maynas:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.40.24:1521:or0901
+---
+moquegua:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.130.19:1534:or07041
+---
+moyobamba:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.30.23:1531:or1201
+---
+nazca:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.110.16:1534:or10042
+---
+otuzco:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.53.25:1521:or08041
+---
+pasco:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.80.144:1534:or02042
+---
+pisco:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.110.15:1533:or10031
+---
+piura:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.10.12:1527:or05011
+---
+pucallpa:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.60.22:1521:or1301
+---
+puno:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.130.20:1535:or07052
+---
+quillabamba:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.100.38:1534:or06042
+---
+sanpedro:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.53.25:1521:or08051
+---
+satipo:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.80.144:1535:or02052
+---
+sicuani:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.100.38:1535:or06052
+---
+sullana:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.10.27:1525:or05022
+---
+tacna:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.130.19:1531:or07011
+---
+tarapoto:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.30.23:1532:or1202
+---
+tarma:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.80.144:1537:or02072
+---
+tingomaria:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.80.144:1538:or02082
+---
+trujillo:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.53.25:1521:Or08011
+---
+tumbes:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.10.27:1526:or05032
+---
+yurimaguas:
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@172.20.30.23:1534:or1204
